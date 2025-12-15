@@ -1,6 +1,6 @@
 # 🎟️ Voucher Redemption & Campaign Automation API
 
-![NodeJS](https://img.shields.io/badge/Node.js-Backend-green) ![GoogleSheetsAPI](https://img.shields.io/badge/Google_Sheets-Integration-success) ![Automation](https://img.shields.io/badge/Sales-Automation-blue)
+![GoogleSheetsAPI](https://img.shields.io/badge/Google_Sheets-Integration-success) ![Automation](https://img.shields.io/badge/Sales-Automation-blue)
 
 ## 📌 Visão Geral
 API desenvolvida para gerenciar a validação e "queima" (redemption) de cupons promocionais em tempo real dentro de fluxos conversacionais (WhatsApp/Chatbots). O sistema utiliza o **Google Sheets como Database/CMS**, permitindo que equipes de Marketing acompanhem a campanha instantaneamente sem necessidade de acesso a bancos de dados complexos.
